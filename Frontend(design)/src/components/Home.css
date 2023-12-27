@@ -1,0 +1,21 @@
+/* Home.css */
+
+.custom-container {
+    padding: 300px;
+    border-radius: 50px;
+    color: white; /* Text color on top of the background image */
+    text-align: center;
+  }
+  
+  .custom-heading {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .custom-paragraph {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  /* Add more styles as needed */
+  

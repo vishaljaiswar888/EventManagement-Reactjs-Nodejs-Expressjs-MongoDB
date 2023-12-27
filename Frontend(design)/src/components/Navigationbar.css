@@ -1,0 +1,13 @@
+.custom-navbar {
+    background-color: #333; /* Set your preferred background color */
+  }
+  
+  .custom-navbar .navbar-brand,
+  .custom-navbar .nav-link {
+    color: #fff !important; /* Set your preferred text color */
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: #ffcc00 !important; /* Set your preferred hover color */
+  }
+  

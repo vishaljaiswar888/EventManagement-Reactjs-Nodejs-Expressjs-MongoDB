@@ -1,0 +1,31 @@
+/* Contact.css */
+
+/* Add a background image */
+
+  
+  /* Add styles for the custom-heading */
+  .custom-heading {
+    color: #ffcc00; /* Set text color to a yellowish color */
+    font-size: 36px; /* Set font size */
+    font-weight: bold; /* Set font weight to bold */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Add a subtle text shadow */
+  }
+  
+  /* Add styles for the contact-info and make Alert transparent */
+  .contact-info {
+    background-color: rgba(255, 255, 255, 0.3); /* Set a transparent white background */
+    padding: 20px; /* Add some padding for better appearance */
+    border-radius: 10px; /* Add rounded corners */
+    color: #242121; /* Set text color to white */
+    font-size: 26px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* Set font size */
+    /* Add additional styles as needed */
+  }
+  
+  /* Make the entire Alert component transparent */
+  .alert {
+    background-color: transparent !important;
+    border: none !important;
+  }
+  
